@@ -1,6 +1,6 @@
 Using the Izhikevich Neuron Model (or the IZH Model for short) to simulate two neurons and the synapse that connects them to each other.
 
-COLAB LINK : https://colab.research.google.com/drive/1iEhgpqy6rj_A4UL7yCyshAzdOlDxBFeu?usp=sharing
+COLAB LINK : https://githubtocolab.com/mathananya/neurotech/blob/main/izh_neuron_modelling.ipynb
 
 References:
 
